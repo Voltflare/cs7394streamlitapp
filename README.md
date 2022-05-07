@@ -35,7 +35,7 @@ Below is the snapshot of the web app to visualize the word embedding."
   <img width="700" height="350" src=https://github.com/marcellusruben/Word_Embedding_Visualization/blob/master/word_embedding_gif.gif>
 </p>
 
-**Note: The program uses a relative pathing to find the word vector file. Place it in the same (root) directory if you wish to run the app locally.
+**Note: The program uses a relative pathing to find the word vector file. Place it in the same (root) directory if you wish to run the app locally.**
 
 Equipped with the trained GloVe word vectors, run the following command in the project directory.
 
