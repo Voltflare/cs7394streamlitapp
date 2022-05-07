@@ -15,7 +15,7 @@ from gensim.models import KeyedVectors
 from gensim.scripts.glove2word2vec import glove2word2vec
 from mpl_toolkits.mplot3d import Axes3D 
 
-glove_file = datapath('C:/Users/natha/Box Sync/COLLEGE STUFFS/Spring 2022/CS 7394/Projects/cs7394-comicsansonly/Project 4/Word_Embedding_Visualization-master/vectors.txt')
+glove_file = datapath('C:/Users/natha/Box Sync/COLLEGE STUFFS/Spring 2022/CS 7394/Projects/StreamlitApp/vectors.txt')
 word2vec_glove_file = get_tmpfile("vectors.word2vec.txt")
 glove2word2vec(glove_file, word2vec_glove_file)
 
