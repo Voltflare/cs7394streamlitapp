@@ -10,8 +10,7 @@ Wikipedia 2014 + Gigaword 5 (6B tokens, 400K vocab, uncased, 50d, 100d, 200d, & 
 Common Crawl (42B tokens, 1.9M vocab, uncased, 300d vectors, 1.75 GB download) (Glove.42B.300d.txt)
 Common Crawl (840B tokens, 2.2M vocab, cased, 300d vectors, 2.03 GB download) (Glove.840B.300d.txt)
 
-A demo case of the GLoVe training, as well as a copy of GloVe's source code, is found at the following url. The entire package is too large for GitHub to store, so it is currently housed in a Google Drive. From the GitHub: "The (contained) demo.sh script downloads a small corpus, consisting of the first 100M characters of Wikipedia. It collects unigram counts, constructs and shuffles cooccurrence data, and trains a simple version of the GloVe model." 
-https://drive.google.com/file/d/15-p7nT4E88khab8IDK43i7jCG8nXTjEm/view?usp=sharing
+A demo case of the GLoVe training, as well as a copy of GloVe's source code, is found at the following url: https://drive.google.com/file/d/15-p7nT4E88khab8IDK43i7jCG8nXTjEm/view?usp=sharing . It is not included inside this repository, as the built files and datasets used are extremely large (up to an entire GB in size). From the GitHub for GloVe: "The (contained) demo.sh script downloads a small corpus, consisting of the first 100M characters of Wikipedia. It collects unigram counts, constructs and shuffles cooccurrence data, and trains a simple version of the GloVe model." 
 
 Several files are created and used during the training of the model:
 
