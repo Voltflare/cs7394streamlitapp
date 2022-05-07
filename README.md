@@ -48,3 +48,10 @@ Finally, to execute the web app, go to the working directory of the app.py and t
 ```
 streamlit run app.py
 ```
+
+
+# Conclusions:
+
+There are many, many different ways to parse information, but I had never personally delved into the implementations and inner workings of the types of tools used in the human trafficking prosecution sphere, today- nor its related Natural Language Processing. Though my own thesis is meant to be an addendum and a forerunner to further work in that sphere, I did not have the chance to work with models such as GloVe or word2vec during my time writing, crafting, and defending my thesis. 
+
+The visual aspect of the project, although I largely had most of the code written, I was shocked at how _well_ visualizations could actually represent these vectors (both in terms of understanding and accuracy). With these types of tools that can parse immeasurable amounts of data into a single, understandable graph, along with my own work, I can safely say that the future of human trafficking prosecution and the fight against the spread of human trafficking is a bright one.
