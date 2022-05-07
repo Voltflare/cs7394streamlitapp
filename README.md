@@ -24,7 +24,7 @@ Several files are created and used during the training of the model:
 
 # Word Embedding Visualization
 
-From: https://towardsdatascience.com/visualizing-word-embedding-with-pca-and-t-sne-961a692509f5, code slightly adapted to run on different hardware.
+Example code from: https://towardsdatascience.com/visualizing-word-embedding-with-pca-and-t-sne-961a692509f5, code slightly adapted to run on different hardware.
 
 "This is a repo to visualize the word embedding in 2D or 3D with either Principal Component Analysis (PCA) or t-Distributed Stochastic Neighbor Embedding (t-SNE).
 
